@@ -1,4 +1,4 @@
-# Terraria-Inspired FPGA Game
+﻿# Terraria-Inspired FPGA Game
 
 Designed by Quan Yuan.
 
@@ -9,6 +9,16 @@ This project is a Terraria-inspired 2D side-scrolling game implemented on an FPG
 The game recreates a Terraria-style world with a scrolling tile map, animated player character, tools, enemies, collectibles, block mining, block placement, tree chopping, health display, start screen, and death screen.
 
 The player can move around the world, mine terrain, collect dropped blocks, place blocks back into the world, fight slimes, and fight a King Slime boss after defeating the initial enemies.
+
+## Screenshots
+
+### Start Screen and Controls
+
+![Start screen and keyboard controls displayed through HDMI on the Urbana FPGA board](photos/start_screen.jpg)
+
+### Main Gameplay
+
+![Main gameplay with terrain, hotbar, health HUD, trees, slimes, and FPGA hardware output](photos/main_gameplay_screen.jpg)
 
 ## Hardware Requirements
 
@@ -107,3 +117,7 @@ The project also experimented with UART communication between two FPGA boards fo
 - The game is designed for the specific FPGA, HDMI, USB, and MicroBlaze setup used in the course project.
 - UART-based inter-board audio triggering was attempted but not included in the final integrated gameplay.
 - Some assets are optimized for FPGA memory limits, so several sprites and backgrounds use reduced resolution or compact memory formats.
+
+
+
+
