@@ -1,0 +1,9 @@
+verilog xil_defaultlib --include "../../../../audio_test.gen/sources_1/bd/audio_control/ipshared/ec67/hdl" \
+"../../../bd/audio_control/sim/audio_control.v" \
+"../../../bd/audio_control/ip/audio_control_lmb_bram_1/sim/audio_control_lmb_bram_1.v" \
+"../../../bd/audio_control/ip/audio_control_xbar_1/sim/audio_control_xbar_1.v" \
+"../../../bd/audio_control/ip/audio_control_microblaze_0_xlconcat_1/sim/audio_control_microblaze_0_xlconcat_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

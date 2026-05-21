@@ -1,0 +1,59 @@
+timestamp=[2026-05-11 21:04:09], mode=WORKBENCH_START, duration=0:00:09.052, duration_ms=9052, data={}
+timestamp=[2026-05-11 21:04:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.502, duration_ms=502, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-05-11 21:04:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.080, duration_ms=80, data={}
+timestamp=[2026-05-11 21:05:19], mode=APP_CREATION, duration=0:00:08.180, duration_ms=8180, data={name=audio_select, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=Module_top, application_type=application}
+timestamp=[2026-05-11 21:07:03], mode=PLATFORM_GENERATION, duration=0:00:48.115, duration_ms=48115, data={name=Module_top}
+timestamp=[2026-05-11 21:07:07], mode=BUILD, duration=0:00:03.780, duration_ms=3780, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 21:07:08], mode=BUILD, duration=0:00:00.344, duration_ms=344, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 21:15:55], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.039, duration_ms=39, data={}
+timestamp=[2026-05-11 21:15:58], mode=WORKBENCH_START, duration=0:00:14.235, duration_ms=14235, data={}
+timestamp=[2026-05-11 21:16:00], mode=WORKBENCH_UI_INIT, duration=0:00:01.964, duration_ms=1964, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Module_top,RemoteSystemsTempFiles,audio_select,audio_select_system}
+timestamp=[2026-05-11 21:18:32], mode=PLATFORM_GENERATION, duration=0:00:08.405, duration_ms=8405, data={name=Module_top}
+timestamp=[2026-05-11 21:18:35], mode=BUILD, duration=0:00:02.043, duration_ms=2043, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 21:18:36], mode=BUILD, duration=0:00:00.292, duration_ms=292, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:25:54], mode=BUILD, duration=0:00:03.004, duration_ms=3004, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:27:44], mode=BUILD, duration=0:00:00.595, duration_ms=595, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:28:36], mode=BUILD, duration=0:00:03.995, duration_ms=3995, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:28:37], mode=BUILD, duration=0:00:00.277, duration_ms=277, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:31:06], mode=BUILD, duration=0:00:01.481, duration_ms=1481, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:35:08], mode=WORKBENCH_START, duration=0:00:15.686, duration_ms=15686, data={}
+timestamp=[2026-05-11 22:35:09], mode=WORKBENCH_UI_INIT, duration=0:00:01.179, duration_ms=1179, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Module_top,RemoteSystemsTempFiles,audio_select,audio_select_system}
+timestamp=[2026-05-11 22:35:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.071, duration_ms=71, data={}
+timestamp=[2026-05-11 22:36:12], mode=PLATFORM_GENERATION, duration=0:00:08.250, duration_ms=8250, data={name=Module_top}
+timestamp=[2026-05-11 22:36:13], mode=BUILD, duration=0:00:00.270, duration_ms=270, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:36:14], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:37:35], mode=BUILD, duration=0:00:01.669, duration_ms=1669, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:37:36], mode=BUILD, duration=0:00:00.268, duration_ms=268, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:42:04], mode=BUILD, duration=0:00:01.467, duration_ms=1467, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:42:05], mode=BUILD, duration=0:00:00.288, duration_ms=288, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:44:20], mode=BUILD, duration=0:00:01.037, duration_ms=1037, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:48:21], mode=BUILD, duration=0:00:01.040, duration_ms=1040, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:48:40], mode=BUILD, duration=0:00:00.696, duration_ms=696, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:49:13], mode=BUILD, duration=0:00:00.496, duration_ms=496, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:49:41], mode=BUILD, duration=0:00:01.497, duration_ms=1497, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:49:42], mode=BUILD, duration=0:00:00.297, duration_ms=297, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:49:47], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:49:48], mode=BUILD, duration=0:00:00.285, duration_ms=285, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:51:57], mode=BUILD, duration=0:00:01.513, duration_ms=1513, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:51:58], mode=BUILD, duration=0:00:00.294, duration_ms=294, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 22:58:58], mode=BUILD, duration=0:00:00.542, duration_ms=542, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:01:10], mode=WORKBENCH_START, duration=0:00:13.478, duration_ms=13478, data={}
+timestamp=[2026-05-11 23:01:11], mode=WORKBENCH_UI_INIT, duration=0:00:01.206, duration_ms=1206, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Module_top,RemoteSystemsTempFiles,audio_select,audio_select_system}
+timestamp=[2026-05-11 23:01:12], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.053, duration_ms=53, data={}
+timestamp=[2026-05-11 23:02:58], mode=PLATFORM_GENERATION, duration=0:00:05.689, duration_ms=5689, data={name=Module_top}
+timestamp=[2026-05-11 23:02:59], mode=BUILD, duration=0:00:00.635, duration_ms=635, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:04:36], mode=BUILD, duration=0:00:01.626, duration_ms=1626, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:04:37], mode=BUILD, duration=0:00:00.241, duration_ms=241, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:05:24], mode=BUILD, duration=0:00:01.445, duration_ms=1445, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:05:25], mode=BUILD, duration=0:00:00.297, duration_ms=297, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-11 23:20:49], mode=WORKBENCH_START, duration=0:00:02.986, duration_ms=2986, data={}
+timestamp=[2026-05-11 23:20:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.012, duration_ms=12, data={}
+timestamp=[2026-05-11 23:20:49], mode=WORKBENCH_UI_INIT, duration=0:00:00.473, duration_ms=473, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Module_top,RemoteSystemsTempFiles,audio_select,audio_select_system}
+timestamp=[2026-05-12 00:22:07], mode=PLATFORM_GENERATION, duration=0:00:01.549, duration_ms=1549, data={name=Module_top}
+timestamp=[2026-05-12 00:22:08], mode=BUILD, duration=0:00:00.658, duration_ms=658, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-12 00:22:09], mode=BUILD, duration=0:00:00.085, duration_ms=85, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-12 00:22:16], mode=BUILD, duration=0:00:00.091, duration_ms=91, data={name=audio_select, configuration=Debug, clean_build=false}
+timestamp=[2026-05-12 00:22:16], mode=BUILD, duration=0:00:00.080, duration_ms=80, data={name=audio_select_system, configuration=Debug, clean_build=false}
+timestamp=[2026-05-12 16:23:51], mode=WORKBENCH_START, duration=0:00:03.285, duration_ms=3285, data={}
+timestamp=[2026-05-12 16:23:51], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.041, duration_ms=41, data={}
+timestamp=[2026-05-12 16:23:51], mode=WORKBENCH_UI_INIT, duration=0:00:00.428, duration_ms=428, data={editors_count=6, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Module_top,RemoteSystemsTempFiles,audio_select,audio_select_system}

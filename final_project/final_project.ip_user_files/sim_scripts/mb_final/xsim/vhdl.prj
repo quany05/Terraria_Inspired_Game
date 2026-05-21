@@ -1,0 +1,18 @@
+vhdl xil_defaultlib  \
+"../../../bd/mb_final/ip/mb_final_axi_uartlite_0_0/sim/mb_final_axi_uartlite_0_0.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_timer_0_1/sim/mb_final_axi_timer_0_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_gpio_0_0/sim/mb_final_axi_gpio_0_0.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_quad_spi_0_0/sim/mb_final_axi_quad_spi_0_0.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_gpio_0_3/sim/mb_final_axi_gpio_0_3.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_gpio_0_4/sim/mb_final_axi_gpio_0_4.vhd" \
+"../../../bd/mb_final/ip/mb_final_microblaze_0_1/sim/mb_final_microblaze_0_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_dlmb_v10_1/sim/mb_final_dlmb_v10_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_ilmb_v10_1/sim/mb_final_ilmb_v10_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_dlmb_bram_if_cntlr_1/sim/mb_final_dlmb_bram_if_cntlr_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_ilmb_bram_if_cntlr_1/sim/mb_final_ilmb_bram_if_cntlr_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_microblaze_0_axi_intc_1/sim/mb_final_microblaze_0_axi_intc_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_mdm_1_1/sim/mb_final_mdm_1_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_rst_clk_wiz_1_100M_1/sim/mb_final_rst_clk_wiz_1_100M_1.vhd" \
+"../../../bd/mb_final/ip/mb_final_axi_uartlite_1_0/sim/mb_final_axi_uartlite_1_0.vhd" \
+
+nosort

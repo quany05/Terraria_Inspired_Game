@@ -1,0 +1,2 @@
+BGM_rom.v,verilog,xil_defaultlib,../../../../audio_test.gen/sources_1/ip/BGM_rom/sim/BGM_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
